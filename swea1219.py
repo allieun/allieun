@@ -52,6 +52,31 @@ for _ in range(1, t+1):
 
 
 
+'''
+도움 될만한 코드
+t = 10
+
+for tc in range(1, t+1):
+    answer = 0   # 일단은 못 갔다고 가정해보자
+    adj_list = [[] for _ in range(100)]   # adj = adjacent. 처음에는 빈 리스트로 시작
+    # 출발이 0, 도착이 99 인 것만 지정되어있고, 노드번호까지 데이터 저장 가이드에서 지정을 해줌
+    # 노드번호가 연이어서 안나올 수 도 있음 -> 모두 다 쓰기 위해서는? 리스트 말고 딕셔너리로 하면 됨
+    # key값이 노드번호, value 값이 리스트 -> 출발 가능한 지점이 모여있게 됨
+    _, m = map(int, input().split())   # m = 간선의 수
+    
+    #info의 길이 = m x 2
+    info = list(map(int, input().split()))
+    for i in range(0, m*2, 2):
+        a, b = info[i], info[i+1]
+        adj_list[a].append(b)
+
+    print(adj_list)   
+
+
+    print(f'#{tc} {answer}')
+
+
+'''
 
 
 
