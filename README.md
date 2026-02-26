@@ -1,6 +1,6 @@
 ## 김태은 (Taieun Kim)
 ## Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allieun&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allieun&theme=default)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=allieun&theme=dark)](https://git.io/streak-stats)
 
 ## Baekjoon
