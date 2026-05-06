@@ -1,18 +1,25 @@
-## 김태은 (Taieun Kim)
+# 김태은 (Taieun Kim)
 
 ## Algorithm
 
-<p>
-  <a href="https://solved.ac/meleca167/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meleca167" height="180"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/allieun/programmers-badge-v1/master/static/result.svg" height="180"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Baekjoon</strong></td>
+    <td align="center"><strong>Programmers</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://solved.ac/meleca167/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meleca167" height="180"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/allieun/programmers-badge-v1/master/static/result.svg" height="180"/>
+    </td>
+  </tr>
+</table>
 
-## Github Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allieun&theme=default)
+## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=allieun&theme=default)](https://git.io/streak-stats)
 
