@@ -22,7 +22,8 @@
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=allieun&theme=default)](https://git.io/streak-stats)
-![Allison's GitHub stats](https://github-readme-stats.vercel.app/api?username=allieun&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=allieun&show_icons=true&theme=default" height="180" />
+
 
 ## Tech Stack
 
