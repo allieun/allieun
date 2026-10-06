@@ -1,46 +1,37 @@
-# 김태은 (Taieun Kim)
+# 김태은 · Taieun Kim
 
-## Algorithm
+**서비스 기획 · PM · 프론트엔드 개발**
 
-<table>
-  <tr>
-    <td align="center"><strong>Baekjoon</strong></td>
-    <td align="center"><strong>Programmers</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://solved.ac/meleca167/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meleca167" height="180"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/allieun/programmers-badge-v1/master/static/result.svg" height="180"/>
-    </td>
-  </tr>
-</table>
+사용자의 요구를 실제로 작동하는 서비스의 기능과 흐름으로 구체화하는 일에 관심이 있습니다.
 
-## GitHub Stats
+러시아어와 경영학을 공부하고 미국 현지 인턴십에서 고객 응대와 주문·배송 운영을 경험했습니다. 현재 SSAFY에서 소프트웨어 개발과 AI 기반 서비스 프로젝트를 수행하며 기획과 구현을 함께 배우고 있습니다.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=allieun&theme=default)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=allieun&show_icons=true&theme=default" height="180" />
+## 주요 프로젝트
 
+### 자연어 투자 전략 기반 모의투자 서비스
 
-## Tech Stack
+**역할:** PM · 프론트엔드 개발
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+사용자가 자연어로 입력한 투자 조건을 AI가 실행 가능한 규칙으로 구조화하고, 사용자가 결과를 확인·수정한 뒤 등록할 수 있는 흐름을 설계했습니다. 프론트엔드에서는 전략의 입력·검토·등록 과정과 감시·실행 상태를 이해하기 쉽게 표현하는 데 집중했습니다. 팀원들과 기능 범위와 데이터 구조를 조율하며 기획을 실제 서비스 화면으로 연결했습니다.
 
-## Tools
+### 리뷰 데이터 기반 관광지 추천 서비스
 
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-555555?style=for-the-badge&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**역할:** 팀장 · 데이터 분석 및 서비스 기획
 
-## Data / Analysis
+서울 주요 5개 구의 리뷰 데이터를 활용해 관광지 특성을 분류하고, 사용자가 선택한 태그와 유사도를 바탕으로 추천하는 서비스를 기획·개발했습니다. 데이터 수집이 중단된 뒤에는 확보한 리뷰를 직접 가공하는 방식으로 전환해 프로젝트를 이어갔습니다.
 
-![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 공개 학습 기록
+
+- [SSAFY Study Log](https://github.com/allieun/SSAFY) — 알고리즘, AI, Django 학습 및 실습 기록
+- [Data Analysis](https://github.com/allieun/Data_analysis) — 데이터 분석 실습 노트북
+- [Algorithm](https://github.com/allieun/Algorithm) — 알고리즘 문제 풀이
+
+## 기술과 협업 도구
+
+- **개발:** Python · Vue.js · Django REST Framework · HTML/CSS · Git
+- **기획·협업:** Figma · Notion · Jira
+- **데이터:** Jupyter Notebook · MySQL · Tableau
+
+## 연결
+
+[LinkedIn](https://www.linkedin.com/in/taieun-alli-kim/) · [블로그](https://blog.naver.com/twilight1619)
